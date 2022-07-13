@@ -1,0 +1,29 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+list-style-position: inside;
+text-align: center;
+background-color:#383838;
+}
+
+.analist{
+    list-style-position: inside
+}
+
+.navbar{
+    border-style: groove;
+    border-width: 5px;
+    border-color: brown;
+    padding: 15px;
+}
+
+a{
+    color:#F2F2F2;
+}
+
+p{
+    color:#066163;
+}
+
+h1{
+    color:#CDBE78;
+}
